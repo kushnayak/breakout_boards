@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "MMC5983MA")(type "KiCad")(uri "${STANDARD_LIBS_FOOTPRINT}/symbol/MMC5983MA.kicad_sym")(options "")(descr ""))
+)
