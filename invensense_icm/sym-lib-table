@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "ICM-20608-G")(type "Legacy")(uri "/Users/kush/Downloads/ICM-20608-G/ICM-20608-G.lib")(options "")(descr ""))
+  (lib (name "ICM-42605")(type "KiCad")(uri "${STANDARD_LIBS_FOOTPRINT}/symbol/ICM42605.kicad_sym")(options "")(descr ""))
+  (lib (name "ICM-42688-P")(type "Legacy")(uri "/Users/kush/Downloads/ICM-42688-P/ICM-42688-P.lib")(options "")(descr ""))
+)
