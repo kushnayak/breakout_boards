@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name "icm20608")(type "KiCad")(uri "/Users/kush/Downloads/ICM-20608-G")(options "")(descr ""))
   (lib (name "icm42688p")(type "KiCad")(uri "/Users/kush/Downloads/ICM-42688-P")(options "")(descr ""))
+  (lib (name "icm42605-new")(type "KiCad")(uri "/Users/kush/Downloads/ICM-42605")(options "")(descr ""))
 )

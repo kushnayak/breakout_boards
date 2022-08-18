@@ -1,0 +1,23 @@
+### Module positions - created on Wednesday, August 17, 2022 at 11:58:05 PM ###
+### Printed by Pcbnew version (6.0.6-0)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val          Package                               PosX       PosY       Rot  Side
+C1        0.1µF       C_0603_1608Metric                 110.8456  -108.7120   90.0000  top
+C2        2.2µF       C_0603_1608Metric                 109.1184  -108.7250   90.0000  top
+C3        0.47µF      C_0603_1608Metric                 107.3404  -108.7120   90.0000  top
+C4        0.1µF       C_0603_1608Metric                 120.2436  -111.2520   90.0000  top
+C5        2.2µF       C_0603_1608Metric                 120.2436  -108.1024  -90.0000  top
+C6        10nF         C_0603_1608Metric                 117.6398  -111.2520    0.0000  top
+C7        2.2µF       C_0603_1608Metric                 115.6208  -116.4336   90.0000  top
+C8        0.1µF       C_0603_1608Metric                 117.3480  -116.4336   90.0000  top
+C9        10nF         C_0603_1608Metric                 112.9792  -118.8212  180.0000  top
+C10       10nF         C_0603_1608Metric                 112.1410  -105.5370   90.0000  top
+J1        Conn_01x07   PinHeader_1x07_P2.54mm_Vertical   103.2002  -102.6250    0.0000  top
+R1        10K          R_0603_1608Metric                 118.8720  -103.3780   90.0000  top
+R2        10K          R_0603_1608Metric                 116.2558  -103.3780   90.0000  top
+R3        10K          R_0603_1608Metric                 113.7920  -112.9284   90.0000  top
+U1        ICM-20608-G  PQFN50P300X300X80-16N             108.3310  -105.2830  180.0000  top
+U2        ICM-42688-P  PQFN50P300X250X97-14N             117.5004  -108.8136    0.0000  top
+U3        ICM-42605    PQFN50P300X250X97-14N             112.8268  -116.4336    0.0000  top
+## End

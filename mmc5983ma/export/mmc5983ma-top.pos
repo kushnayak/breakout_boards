@@ -1,0 +1,13 @@
+### Module positions - created on Wednesday, August 17, 2022 at 11:59:05 PM ###
+### Printed by Pcbnew version (6.0.6-0)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val         Package                               PosX       PosY       Rot  Side
+C1        1µF        C_0603_1608Metric                 112.3196  -107.1872    0.0000  top
+C2        10µF       C_0603_1608Metric                 113.4880  -109.9812   90.0000  top
+J1        Conn_01x07  PinHeader_1x07_P2.54mm_Vertical   103.3780  -102.6242    0.0000  top
+R1        2.7K        R_0603_1608Metric                 107.2904  -110.2860  180.0000  top
+R2        2.7K        R_0603_1608Metric                 107.3150  -107.0610  180.0000  top
+R3        10K         R_0603_1608Metric                 107.2782  -112.2672  180.0000  top
+U1        MMC5983MA   LGA-16_3x3mm_P0.5mm               110.7320  -109.9392    0.0000  top
+## End

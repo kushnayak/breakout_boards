@@ -68,9 +68,9 @@
       (subtractmaskfromsilk false)
       (outputformat 1)
       (mirror false)
-      (drillshape 1)
+      (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "")
+      (outputdirectory "export/")
     )
   )
 
@@ -323,6 +323,9 @@
   )
 
   (gr_rect (start 100 100) (end 114.5 120.5) (layer "Edge.Cuts") (width 0.2) (fill none) (tstamp a5e1a92e-b9f9-4623-947a-00f00a236785))
+  (gr_text "Designed By: Kush Nayak\nAmadorUAVs" (at 112.014 111.76 90) (layer "B.SilkS") (tstamp 3510b513-55c4-47bc-9fa2-22409c69777f)
+    (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
+  )
   (gr_text "SDA" (at 101.1682 112.8014 270) (layer "F.SilkS") (tstamp 33473b9a-681d-4834-80c1-35da4eb53171)
     (effects (font (size 1 0.8) (thickness 0.15)))
   )
@@ -343,6 +346,9 @@
   )
   (gr_text "~{CS}" (at 101.1682 107.6706 270) (layer "F.SilkS") (tstamp f1e6f0dc-54a0-4b73-a482-ad59b08f50a1)
     (effects (font (size 1 0.8) (thickness 0.15)))
+  )
+  (gr_text "ICP-20100\nBreakout Board" (at 107.188 115.062 270) (layer "F.SilkS") (tstamp f3bf88c0-9d86-41ad-aa84-62aaee28c787)
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
 
   (segment (start 108.433408 111.8108) (end 108.926008 111.8108) (width 0.25) (layer "F.Cu") (net 1) (tstamp 0075ddd7-a088-4804-9cd1-1b5e00ed60d6))

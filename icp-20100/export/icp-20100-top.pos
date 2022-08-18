@@ -1,0 +1,11 @@
+### Module positions - created on Wednesday, August 17, 2022 at 11:59:52 PM ###
+### Printed by Pcbnew version (6.0.6-0)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val         Package                               PosX       PosY       Rot  Side
+C1        0.1µF      C_0603_1608Metric                 110.8718  -113.1570   90.0000  top
+C2        0.1µF      C_0603_1608Metric                 110.4654  -108.1278    0.0000  top
+J1        Conn_01x07  PinHeader_1x07_P2.54mm_Vertical   103.6988  -102.6250    0.0000  top
+R1        R           R_0603_1608Metric                 107.1888  -109.3470  180.0000  top
+U1        ICP20100    PQFN50P200X200X85-10N             110.2368  -110.2500    0.0000  top
+## End
